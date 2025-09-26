@@ -1,5 +1,5 @@
 services:
-  siliconflow-proxy:
+  server:
     image: siliconflow-proxy
     env_file:
       - .env
