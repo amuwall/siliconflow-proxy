@@ -1,0 +1,1 @@
+set $siliconflow_authorization "Bearer $API_KEY";
